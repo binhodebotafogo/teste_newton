@@ -1,0 +1,87 @@
+html, body{
+    text-decoration: none;
+    margin: 0;
+}
+
+ul.nav a{
+    text-decoration: none;
+    color: black;
+}
+
+ul.nav i{
+    color: #E42313;
+}
+
+
+ol, li, i{
+    color: lightgray;
+}
+
+.formatacao-imagem{
+    background: #000000 0% 0% no-repeat padding-box;
+    mix-blend-mode: multiply;
+}
+
+#container1{
+top: 1180px;
+left: 396px;
+width: 1057px;
+height: 564px;
+opacity: 1;
+}
+
+.caminho_img{
+	position: absolute;
+	left: 0px;
+	width: 450px;
+	z-index: 0;
+}
+
+.caixa{
+	z-index: 1;
+}
+.btn_plus{
+	position: absolute;
+	right: 100px;
+	font-size: 30px;
+	color: white;
+	margin-top: -38px; 
+}
+
+.btn_form{
+	width: 111px;
+	background: #E42313;
+	border-radius: 10px;
+	opacity: 1;
+	float: right;
+}
+
+.corpo_form{
+	background: #FBFBFB;
+	box-shadow: 7px 7px 15px #9C9C9C29;
+	border-radius: 10px;
+	opacity: 1;
+	display:flex;
+}
+.item_form{
+	width: 516px;
+	height: 72px;
+	background: #F1F1F1BD;
+	border-radius: 20px;
+	opacity: 1;
+}
+.textarea_form{
+	 width: 480px;
+	 height: 256px;
+	 background: #F4F4F4;
+	 border-radius: 20px;
+	 opacity: 1;
+}
+
+footer{
+	background-color: #333333;
+}
+.redes_sociais{
+	position: absolute;
+	right: 100px;
+}
